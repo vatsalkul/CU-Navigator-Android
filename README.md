@@ -1,9 +1,6 @@
 # Navigator Android App
 Chandigarh University guide  to different food outlets and academic blocks.
 
-## Screenshots:
-
-<img src="https://user-images.githubusercontent.com/30840527/62794055-be5a0a00-baf0-11e9-8a29-182ff2f69595.png" width="250">
 
 ## Features
 - Student/Parents can navigate through different areas within Chandigarh University. 
